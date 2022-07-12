@@ -46,9 +46,12 @@ I'm a Data Scientist / Machine Learning Engineer
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr_vamshi__46_?igshid=YmMyMTA2M2Y=)
 
 
+
 ## Screenshots
 
+
 ### Home Page :
+
 
 ![App Screenshot](https://user-images.githubusercontent.com/89390696/178424232-707f6f3a-a266-44fe-b3d0-619890e6dcc3.png)
 
@@ -61,9 +64,11 @@ I'm a Data Scientist / Machine Learning Engineer
 
 ## Prediction Page 
 
+
 ### If The Person Don't Have Diabetes :
 
 ![App Screenshot](https://user-images.githubusercontent.com/89390696/178424725-7ae44df8-5328-4831-83b9-26fbd0ac2f17.png)
+
 
 ### If The Person Has Diabetes :
 
@@ -74,4 +79,4 @@ I'm a Data Scientist / Machine Learning Engineer
 
 # Thanks For Visiting :) 
 
-
+Please do ⭐ the repository, if it helped you in anyway
