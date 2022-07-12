@@ -27,7 +27,8 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 Insert gif or link to demo
 
-https://user-images.githubusercontent.com/89390696/178415006-750ab1bd-86ea-486f-8aab-e627969f8e3a.mp4
+[video.webm](https://user-images.githubusercontent.com/89390696/178423737-502fd348-1290-4baf-82de-5457cf005b0a.webm)
+
 ## Deployment
 
 This Project Is Deployed In Heroku : https://diabetes-prediction-by-vamshi.herokuapp.com/
