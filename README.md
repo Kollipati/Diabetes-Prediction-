@@ -43,7 +43,7 @@ I'm a Data Scientist / Machine Learning Engineer
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kollipati)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-chowdary-aa8208219)
-[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr_vamshi__46_?igshid=YmMyMTA2M2Y=)
 
 
 ## Screenshots
