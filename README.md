@@ -50,7 +50,7 @@ I'm a Data Scientist / Machine Learning Engineer
 
 ### Home Page :
 
-![App Screenshot](https://user-images.githubusercontent.com/89390696/178411772-aad421a9-fbde-4690-b68f-b9837c3d08ce.png)
+![App Screenshot](https://user-images.githubusercontent.com/89390696/178424232-707f6f3a-a266-44fe-b3d0-619890e6dcc3.png)
 
 
 ### Enter The Data :
