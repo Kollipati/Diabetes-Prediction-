@@ -67,6 +67,8 @@ I'm a Data Scientist / Machine Learning Engineer
 
 ### If The Person Has Diabetes :
 
+![App Screenshot](https://user-images.githubusercontent.com/89390696/178425218-0f353698-1f69-48b4-bf63-695df7a3d90b.png)
+
 
 
 
