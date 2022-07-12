@@ -56,7 +56,7 @@ I'm a Data Scientist / Machine Learning Engineer
 ### Enter The Data :
 
 
-![App Screenshot](https://user-images.githubusercontent.com/89390696/178412001-2e59691a-4447-4706-b76e-e795ae654881.png)
+![App Screenshot](https://user-images.githubusercontent.com/89390696/178424577-5afdb025-9646-4c04-adbe-fb0243f8b7cc.png)
 
 
 ### Prediction Page :
