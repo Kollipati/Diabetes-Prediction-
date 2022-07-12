@@ -59,10 +59,13 @@ I'm a Data Scientist / Machine Learning Engineer
 ![App Screenshot](https://user-images.githubusercontent.com/89390696/178424577-5afdb025-9646-4c04-adbe-fb0243f8b7cc.png)
 
 
-### Prediction Page :
+## Prediction Page 
 
+### If The Person Don't Have Diabetes :
 
-![App Screenshot](https://user-images.githubusercontent.com/89390696/178412247-82d2e563-58ed-4f3e-8fa6-14c76019ba82.png)
+![App Screenshot](https://user-images.githubusercontent.com/89390696/178424725-7ae44df8-5328-4831-83b9-26fbd0ac2f17.png)
+
+### If The Person Has Diabetes :
 
 
 
